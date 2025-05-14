@@ -8,7 +8,10 @@ To study the problem statement, SRS document and draw all the UML diagrams of a 
 To create Hospital Management System software that will meet the needs of the applicant and help them with patient registration, booking medical services or appointments, modification in the database, and cancellation of registered appointments or services.
 
 ## DIAGRAMS :
-
+```
+NAME : NITHYA D
+REG.NO : 212223240110
+``` 
 ### Activity diagram :
 ![ActivityDiagram1](https://github.com/user-attachments/assets/c55307d9-50b1-4015-81a0-8ae36a089b98)
 
@@ -27,5 +30,5 @@ To create Hospital Management System software that will meet the needs of the ap
 ### Usecase diagram :
 ![UseCaseDiagram1](https://github.com/user-attachments/assets/444bd13e-f13d-49f4-a784-595dcca4b504)
 
-## RESULT:
+## RESULT :
 Thus the Hospital management system project was executed and the output was verified.
